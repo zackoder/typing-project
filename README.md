@@ -1,0 +1,1 @@
+"I have a strong passion for memorizing song lyrics and improving my typing speed. To achieve this goal, I have decided to create a website dedicated to helping me accomplish both objectives. This website will serve as a platform for me to practice typing the lyrics of songs I enjoy, allowing me to commit them to memory while simultaneously enhancing my typing skills."
