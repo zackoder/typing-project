@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+   <title>mastring typing</title>
+</head>
+<body>
+
+   <!-- here where i deal with the timer -->
+   <div id="border">
+      <span class="time">00</span>
+   </div>
+
+   <!-- here where i deal with the screan -->
+   <div id="textS">
+   </div>
+   <div class="sure">
+      <button id="reset" class="reset">reset</button>
+      <button id="submit" class="submit">submit</button>
+   </div>
+
+   <!-- the header it shows when befor you add a text  -->
+   <div class="header">
+      <h1 id="qu">paste the text that you want to retype in the text area below</h1>
+   </div>
+
+   <!-- here where you should put the text after you submit you have to rewrite the text here -->
+   <div id="textT">
+      <label for="textarea" id="lab">
+         <textarea name="typingS" id="textarea" autofocus placeholder="here you can type"></textarea>
+      </label>
+   </div>
+
+   <script src="app.js"></script>
+</body>
+</html>
